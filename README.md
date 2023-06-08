@@ -1,4 +1,4 @@
-# maddpg-ina
+# MADDPG-INA
 
 This is an implementation of the paper titled: Knowledge transfer in multi-agent reinforcement learning with incremental number of agents.
 
